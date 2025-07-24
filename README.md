@@ -2,7 +2,7 @@
 
 This is a Battelbot project I done with a team member of 3.
 
-![Battlebot image](https://github.com/user-attachments/assets/3999170e-fc5a-420c-b583-ce4725402555)
+![Battlebot image](https://github.com/user-attachments/assets/57997c9e-e121-483f-8278-1b9429bd8bd6)
 
 The team members are:
 1) Ryan Qin
